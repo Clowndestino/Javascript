@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-radius: 1;
+}
+
+.Logo{
+    display: inline;
+    height: 80px;
+    width: 80px;
+}
+
+header{
+    background-color: aqua;
+    height: 70px;
+    width: 80%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+
+
+a{
+    text-decoration: none;
+    display: inline;
+    justify-content: space-between;
+}
